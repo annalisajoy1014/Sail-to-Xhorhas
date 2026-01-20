@@ -1,2 +1,1 @@
-# Sail-to-Xhorhas
-This is the adventure about the ship, the Nergaliid
+# This is a text-based adventure for players aboard the Nergaliid sailing to Xhorhas
